@@ -1,4 +1,4 @@
-# Offline Ticketing System - .NET 8 (Local)
+# Offline Ticketing System - .NET 8 (Local) - Monolith
 
 Simple offline ticketing backend using ASP.NET Core 8, EF Core, and SQLite.
 
